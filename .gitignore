@@ -4,3 +4,7 @@ notebooks/old
 test_storage
 demo_storage
 .env
+.codex
+data/test
+data/image_pdfs
+data/processed_reports
